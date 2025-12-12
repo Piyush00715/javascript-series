@@ -1,0 +1,2 @@
+//== looseequality operater
+//=== strict equality 
